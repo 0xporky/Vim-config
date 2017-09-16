@@ -19,6 +19,7 @@ Plugin 'vim-airline/vim-airline-themes'   	" Lean & mean status/tabline for vim
 Plugin 'fisadev/FixedTaskList.vim'  		" Pending tasks list
 Plugin 'rosenfeld/conque-term'      		" Consoles as buffers
 Plugin 'tpope/vim-surround'	   				" Parentheses, brackets, quotes, XML tags, and more
+Plugin 'scrooloose/nerdcommenter'     " for comments
 
 "--------------=== Snippets support ===---------------
 Plugin 'garbas/vim-snipmate'			" Snippets manager
